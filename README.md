@@ -1,6 +1,10 @@
 # lib-algo
 > A C++ library with implementation of basic algorithms, data structures, constants, etc. at lower complexities. Useful for Competitive Programming and System Programming.
 
+# Sections
+- [Contributions](https://github.com/Jishanshaikh4/lib-algo/blob/master/README.md#contributions)
+- [License](https://github.com/Jishanshaikh4/lib-algo/blob/master/README.md#license)
+
 ## Contributions
 I'm willing to accept contributions from open source developers. What you have to do is simply fork this repository, made changes to it, and leave a pull request. Anybody can contribute to this repository following industry ethics.
 
