@@ -7,7 +7,7 @@
 - [License](https://github.com/Jishanshaikh4/lib-algo/blob/master/README.md#license)
 
 ## To do and Progress
-- Sorting (Merge, Quick, Radix, Heap) (NOT DONE YET)
+- Sorting (Merge, Quick, Radix, Heap, Bucket?) (NOT DONE YET)
 - Advanced Sorting (Randomized, approximated, distributed Data Structures) (NOT DONE YET)
 - Searching (Binary, etc.)
 - Graph Algorithms (DFS, BFS, and their variations, MST, Connected Components) (NOT DONE YET)
