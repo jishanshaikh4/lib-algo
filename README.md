@@ -4,7 +4,7 @@
 # Sections
 - [To do and Progress](https://github.com/Jishanshaikh4/lib-algo/blob/master/README.md#to-do-and-progress)
 - [Contributions](https://github.com/Jishanshaikh4/lib-algo/blob/master/README.md#contributions)
-- [License](https://github.com/Jishanshaikh4/lib-algo/blob/master/README.md#license)
+- [License](https://github.com/Jishanshaikh4/lib-algo/blob/master/README.md#license).
 
 ## To do and Progress
 - Sorting (Merge, Quick, Radix, Heap, Bucket?) (NOT DONE YET)
