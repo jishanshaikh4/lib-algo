@@ -1,5 +1,5 @@
 # lib-algo
-> A C++ library with implementation of basic algorithms, data structures, constants, etc. at lower complexities. Useful for Competitive Programming and System Programming.
+> A C++ library with implementation of basic algorithms, data structures, constants at lower complexities. Useful for Competitive Programming and System Programming.
 
 # Sections
 - [To do and Progress](https://github.com/Jishanshaikh4/lib-algo/blob/master/README.md#to-do-and-progress)
