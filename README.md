@@ -1,4 +1,4 @@
-# lib-algo
+# :paperclip: lib-algo
 A C++ library with implementation of basic algorithms, data structures, constants at lower complexities. Useful for Competitive Programming and System Programming.
 
 # Sections
