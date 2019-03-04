@@ -9,7 +9,7 @@ A C++ library with implementation of basic algorithms, data structures, constant
 ## To do and Progress
 - Sorting (Merge, Quick, Radix, Heap, Bucket?) (NOT DONE YET)
 - Advanced Sorting (Randomized, approximated, distributed Data Structures) (NOT DONE YET)
-- Searching (Binary, etc.)
+- Searching (Binary, etc.)(NOT DONE YET)
 - Graph Algorithms (DFS, BFS, and their variations, MST, Connected Components) (NOT DONE YET)
 - Data Structures as abstract data types (Tree, Graph, and their variations) (NOT DONE YET)
 - Puzzles implemented in C++ (NOT DONE YET)
